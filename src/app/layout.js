@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Second Brain",
+  title: "My Bullet Journal",
   description: "My personal Bullet Journal",
 };
 
